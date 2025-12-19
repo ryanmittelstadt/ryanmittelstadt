@@ -3,7 +3,7 @@
 <h2>🚀 Aerospace Engineering Projects:</h2>
 
 - <b>Orbital Mechanics & Trajectory Optimization</b>
-  - [Low-Thrust Interplanetary Trajectory Optimizer (Comet 29P)](https://google.com)
+  - [Low-Thrust Interplanetary Trajectory Optimizer (Comet 29P)](https://github.com/ryanmittelstadt/low-thrust-interplanetary-optimizer)
   - [Asteroid 99942 Apophis Mission Design (Lambert Solver)](https://google.com)
   - [Bi-Elliptic Transfer Optimization & Comparative Analysis](https://google.com)
   - [J2 Perturbation & Station Keeping Analysis (Saturn)](https://google.com)
