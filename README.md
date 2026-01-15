@@ -13,12 +13,12 @@
 - <b>Dynamics & Control Systems</b>
   - [Aircraft Landing Gear Shock & Structural Vibration Analysis](https://github.com/ryanmittelstadt/landing-gear-shock-analysis)
 
-<h2>🌱 Socially Responsible Computing (SRC):</h2>
+<h2>🌱 Computer Science Projects:</h2>
 
 - <b>Community-Centered Software</b>
   - [SRC: Food Bank Distribution & Resource Allocation System](https://github.com/ryanmittelstadt/SRC-Food-Bank-Simulation)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🖥️ Connect with me:</h2>
 
 [<img align="left" alt="Ryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ryan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
