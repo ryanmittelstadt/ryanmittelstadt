@@ -18,13 +18,6 @@
 - <b>Community-Centered Software</b>
   - [SRC: Food Bank Distribution & Resource Allocation System](https://github.com/ryanmittelstadt/SRC-Food-Bank-Simulation)
 
-<h2>📺 Featured Technical Walk-throughs</h2>
-
-- [Trajectory Optimization to Comet 29P](https://google.com)
-- [Saturn Periapsis Station Keeping Strategy](https://google.com)
-- [NASA Airfoil Pressure Distribution Results](https://google.com)
-- [Food Bank System: Social Responsibility in CS](https://google.com)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,5 +25,5 @@
 
 <br />
 
-[linkedin]: https://google.com
-[github]: https://google.com
+[linkedin]: https://www.linkedin.com/in/ryan-mittelstadt-5354453a0/
+[github]: https://github.com/ryanmittelstadt?tab=repositories
